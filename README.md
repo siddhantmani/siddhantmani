@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<!-- <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=siddhantmani&cc=000000&tc=ffffff&ic=ffffff&bc=000000" width="100%" />
-</p> -->
-
 <h1 align="center">Hi, I'm Siddhant 👋</h1>
 
 <p align="center">
@@ -12,39 +7,25 @@
 ---
 
 ## ⚡ About Me
-I'm a web developer & SaaS builder who focuses on clean UI, smooth animations, and fast user experiences.  
-
-I love shipping fast, building in public, and creating tools that help developers move quickly.
+I'm a web developer & SaaS builder focused on clean UI, smooth animations, and fast user experiences.
+I like moving fast, experimenting, and creating tools that solve real developer problems.
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Languages & Frameworks**
-- JavaScript (ES6+), TypeScript  
-- React, Next.js  
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js  
+- **Styling & Design:** Tailwind CSS, Framer Motion  
+- **Backend & Tools:** Node.js, Firebase, MongoDB, Git, GitHub  
+- **Other:** Web Animations, UI/UX fundamentals, Landing Page Design, SaaS Development
 
-### **Styling**
-- Tailwind CSS  
-- Framer Motion  
+---
 
-### **Backend & Tools**
-- Firebase, MongoDB  
-- Node.js  
-- Git, GitHub  
+## ⭐ Featured Projects
 
-### **Other Skills**
-- Web Animations  
-- UI/UX fundamentals  
-- Landing page design  
-- SaaS development  
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhantmani&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantmani&layout=compact&theme=radical" height="160" />
-</p> -->
+### 🌀 **React Vibe**
+A motion-first React component library designed for developers who want clean UI, smooth animations, and plug-and-play sections — without setup hell.  
+**Status:** 🚀 *Launching soon*
 
 ---
 
@@ -57,6 +38,8 @@ I love shipping fast, building in public, and creating tools that help developer
   <a href="https://github.com/siddhantmani">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
+    <a href="https://www.linkedin.com/in/siddhantmani/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
-
 
