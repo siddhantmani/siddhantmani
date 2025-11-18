@@ -26,12 +26,11 @@ I love shipping fast, building in public, and creating tools that help developer
 
 ### **Styling**
 - Tailwind CSS  
-- CSS Modules  
 - Framer Motion  
 
 ### **Backend & Tools**
-- Firebase, Supabase, MongoDB  
-- Node.js, Express  
+- Firebase, MongoDB  
+- Node.js  
 - Git, GitHub  
 
 ### **Other Skills**
@@ -40,14 +39,12 @@ I love shipping fast, building in public, and creating tools that help developer
 - Landing page design  
 - SaaS development  
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddhantmani&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantmani&layout=compact&theme=radical" height="160" />
-</p>
+</p> -->
 
 ---
 
