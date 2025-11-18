@@ -59,14 +59,4 @@ I love shipping fast, building in public, and creating tools that help developer
   </a>
 </p>
 
----
 
-## ⭐ Current Focus
-- Building out **ReactVibe** component by component  
-- Publishing everything open source  
-- Growing as a designer + developer  
-- Learning daily & building in public  
-
----
-
-<p align="center">Made with ❤️ by Siddhant Mani</p>
