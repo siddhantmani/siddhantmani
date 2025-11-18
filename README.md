@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=siddhantmani&cc=000000&tc=ffffff&ic=ffffff&bc=000000" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Siddhant 👋</h1>
 
