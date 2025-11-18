@@ -32,7 +32,7 @@ A motion-first React component library designed for developers who want clean UI
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://x.com/_siddhantmani">
+  <a href="https://x.com/_siddhantmani" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
   <a href="https://github.com/siddhantmani">
