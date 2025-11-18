@@ -13,7 +13,6 @@
 
 ## ⚡ About Me
 I'm a web developer & SaaS builder who focuses on clean UI, smooth animations, and fast user experiences.  
-I'm currently building **ReactVibe**, a motion-first React component library — fully open source.
 
 I love shipping fast, building in public, and creating tools that help developers move quickly.
 
@@ -40,13 +39,6 @@ I love shipping fast, building in public, and creating tools that help developer
 - UI/UX fundamentals  
 - Landing page design  
 - SaaS development  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 **ReactVibe**
-A motion-first component library for React — copy-paste UI, smooth animations, and beautiful website components. (Dropping Soon...)
 
 ---
 
