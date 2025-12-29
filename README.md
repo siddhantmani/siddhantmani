@@ -32,7 +32,7 @@ A motion-first React component collection focused on interaction quality, smooth
 
 ## 🌐 Let’s Connect
 
-| 🌍 Website | 💼 LinkedIn | 🐦 X | 🧑‍💻 GitHub | ✉️ Email |
+| 🌍 Website | 💼 LinkedIn | 🎌 X | 🧑‍💻 GitHub | ✉️ Email |
 |-----------|------------|-----|-----------|---------|
 | [reactvibe.com](https://reactvibe.com) | [in/siddhantmani](https://www.linkedin.com/in/siddhantmani/) | [@_siddhantmani](https://x.com/_siddhantmani) | [@siddhantmani](https://github.com/siddhantmani) | [siddhant.mani@outlook.com](mailto:siddhant.mani@outlook.com) |
 
