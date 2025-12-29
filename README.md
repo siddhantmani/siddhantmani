@@ -1,12 +1,5 @@
-<h1 align="center">Hi, I'm Siddhant 👋</h1>
+<h1>Hi, I'm Siddhant 👋</h1>
 
-<p align="center">
-  Turning ideas into products 🚀  
-</p>
-
----
-
-## ⚡ About Me
 I'm a web developer & SaaS builder focused on clean UI, smooth animations, and fast user experiences.
 I like moving fast, experimenting, and creating tools that solve real developer problems.
 
@@ -23,23 +16,24 @@ I like moving fast, experimenting, and creating tools that solve real developer 
 
 ## ⭐ Featured Projects
 
-### 🌀 **React Vibe**
-A motion-first React component library designed for developers who want clean UI, smooth animations, and plug-and-play sections — without setup hell.  
-**Status:** 🚀 *Launching soon*
+🌀 React Vibe  
+A motion-first React component collection focused on interaction quality, smooth animations, and production-ready UI sections. Built for developers who care about how interfaces *feel*, not just how they look.
+
+**Highlights:**
+- Copy-paste components (no custom library lock-in)
+- Uses familiar tools like Framer Motion & Tailwind CSS
+- Designed for real projects, not demos
+
+**Stack:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Three.js
+
+🌐 Website: https://reactvibe.com
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let’s Connect
 
-<p align="center">
-  <a href="https://x.com/_siddhantmani">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-  </a>
-  <a href="https://github.com/siddhantmani">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-    <a href="https://www.linkedin.com/in/siddhantmani/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
+| 🌍 Website | 💼 LinkedIn | 🐦 X | 🧑‍💻 GitHub | ✉️ Email |
+|-----------|------------|-----|-----------|---------|
+| [reactvibe.com](https://reactvibe.com) | [in/siddhantmani](https://www.linkedin.com/in/siddhantmani/) | [@_siddhantmani](https://x.com/_siddhantmani) | [@siddhantmani](https://github.com/siddhantmani) | [siddhant.mani@outlook.com](mailto:siddhant.mani@outlook.com) |
+
 
