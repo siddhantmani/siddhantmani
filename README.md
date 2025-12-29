@@ -21,7 +21,7 @@ A motion-first React component collection focused on interaction quality, smooth
 
 **Highlights:**
 - Copy-paste components (no custom library lock-in)
-- Uses familiar tools like Framer Motion & Tailwind CSS
+- Uses familiar tools like Three.js, Framer Motion & Tailwind CSS
 - Designed for real projects, not demos
 
 **Stack:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Three.js
