@@ -29,4 +29,4 @@ I focus on **React, motion, and developer experience**, building software that h
 
 | 🌍 Website | 💼 LinkedIn | 🎌 X | 🧑‍💻 GitHub | ✉️ Email |
 |-----------|------------|-----|-----------|---------|
-| [reactvibe.com](https://reactvibe.com) | [in/siddhantmani](https://www.linkedin.com/in/siddhantmani/) | [@_siddhantmani](https://x.com/_siddhantmani) | [@siddhantmani](https://github.com/siddhantmani) | [siddhant.mani@outlook.com](mailto:siddhant.mani@outlook.com) |
+| [reactvibe.com](https://reactvibe.com) | [in/siddhantmani](https://www.linkedin.com/in/siddhantmani/) | [@siddhant.builds](https://www.threads.com/@siddhant.builds) | [@siddhantmani](https://github.com/siddhantmani) | [siddhant.mani@outlook.com](mailto:siddhant.mani@outlook.com) |
